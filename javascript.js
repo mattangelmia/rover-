@@ -161,4 +161,4 @@ function validInput(commands) {
   }
 }
 
-commands('rlrffffrffflbbb')
+commands('rlrflrffrffflbbb')
