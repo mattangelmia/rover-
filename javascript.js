@@ -157,7 +157,7 @@ function validInput(commands) {
     console.log('THIS INPUT IS VALID');
   }
   else {
-    console.log('THIS INPUT IS INVALID, TRY AGAIN');
+    console.log('THIS INPUT IS NOT VALID, TRY AGAIN');
   }
 }
 
