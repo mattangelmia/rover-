@@ -109,7 +109,7 @@ function moveForward() {
 }
 
 
-var commandList = ['r', 'f', 'f', 'r', 'f', 'f', 'l', 'f', 'r', 'f', 'f']
+var commandList = ['r', 'f', 'r', 'l', 'f', 'f', 'l', 'f', 'r', 'f', 'f']
 
 function commands(command) {
   for (var i = 0; i < command.length; i++) {
