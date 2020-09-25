@@ -49,7 +49,7 @@ function turnRight() {
       break;
   }
 
-  console.log(`turnRight was called! The rover's currently pointing ${myRover.direction}`);
+  console.log(`turnRight called! The rover's currently pointing ${myRover.direction}`);
   myRover.travelLog.push([myRover.x, myRover.y])
 }
 
